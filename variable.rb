@@ -1,2 +1,3 @@
- # Define a local variable called 'greeting',
+def ("hello")
+  ''hello world
  # give it the value of the string "Hello World"
